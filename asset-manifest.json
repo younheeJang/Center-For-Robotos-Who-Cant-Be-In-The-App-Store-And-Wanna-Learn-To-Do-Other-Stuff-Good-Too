@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/css/main.d2733d83.chunk.css",
-    "main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/main.bb389a5c.chunk.js",
-    "main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/main.bb389a5c.chunk.js.map",
+    "main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/main.6dc18055.chunk.js",
+    "main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/main.6dc18055.chunk.js.map",
     "runtime-main.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/runtime-main.72df23e9.js",
     "runtime-main.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/runtime-main.72df23e9.js.map",
     "static/css/2.3c03f26f.chunk.css": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/css/2.3c03f26f.chunk.css",
     "static/js/2.436754dc.chunk.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/2.436754dc.chunk.js",
     "static/js/2.436754dc.chunk.js.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/js/2.436754dc.chunk.js.map",
     "index.html": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/index.html",
-    "precache-manifest.68bdead0cbc449c77d7e48fb095678e8.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/precache-manifest.68bdead0cbc449c77d7e48fb095678e8.js",
+    "precache-manifest.a1ceec431fb4fab6e62d58b17efede2c.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/precache-manifest.a1ceec431fb4fab6e62d58b17efede2c.js",
     "service-worker.js": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.d2733d83.chunk.css.map": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too/static/css/main.d2733d83.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.436754dc.chunk.js",
     "static/css/main.d2733d83.chunk.css",
-    "static/js/main.bb389a5c.chunk.js"
+    "static/js/main.6dc18055.chunk.js"
   ]
 }
